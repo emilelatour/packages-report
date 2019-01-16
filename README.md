@@ -10,3 +10,5 @@ Here's hoping this project will end in a eucatastrophe.
 Here's a change I made in the past branch
 
 Yet more fun in the past
+
+Local awesome work
